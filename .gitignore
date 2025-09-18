@@ -1,0 +1,8 @@
+# Ignore Visual Studio cache files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.db
+*.log
